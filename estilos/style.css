@@ -38,13 +38,13 @@ header > h1{
 header > p{
  font-family: Arial, Helvetica, sans-serif;
  font-size: 1em;
+ padding-right: 10px;
+ padding-left: 10px;
+ padding-bottom: 50px;
  padding-top: 20px;
- padding-right: 20px;
- padding-left: 20px;
- padding-bottom: 10px;
- margin-top: 5px;
  text-shadow: 2px 1px  0px black;  
- min-width: 450px;
+ color: white;
+ max-width: 600px;
  margin: auto;
  text-align: center;
 }
